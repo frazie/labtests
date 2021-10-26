@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--name, email, date-->
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>lab1a_xxxx</title>
+</head>
+<body>
+<!--login name, hometown, major-->
+    <div><h1>Name and Section Number</h1>
+<br>
+        <blockquote>
+         <p>Waste no more time arguing about what a good man should be. Be one - Marcus Aurelius</p>
+        </blockquote>
+
+<br>
+    <h2>Marcus Aurelius</h2>
+        <p>I chose this quote by Marcus Aurelius because he is one of the lesser known philosophers whose teachings
+            are not only eye opening but direct at the message they seek to pass.</p>
+<br>
+    </div>
+
+<div>
+    <h2>Internet Utilization</h2>
+    <p>To effectively use the <b>internet </b>, one needs to first know how to search for what they are looking for on
+        <a href="www.google.com" target="_blank">Google</a>. To begin, one will open the <i><span style="background-color: royalblue">google search engine</span></i> where they will use the key words for what they are looking for
+        It would be more effective if one would find the most common words used by the topic and from the results provided, search for extended infromation in the links</p>
+    <h3>Admiral Grace Hopper</h3>
+    <p>
+        A great contribution has been made by Grace Hopper in the computer science industry. She is seen as the top at computer programming with great contribution in software development. In her life, is best known for her trailblazing contributions to computer programming, software development, and the design and implementation of programming languages.
+        Some of her classic quotes include:
+        <span style="font-size: 20px;text-align: left;font-style: normal">“If you do something once, people will call it an accident. If you do it twice, they call it a coincidence. But do it a third time and you’ve just proven a natural law!”</span>
+    </p>
+</div>
+<div>
+    <h2>difference between HTML tags and elements</h2>
+    <p>
+        an HTML element is the collection of start tag, its attributes, an end tag and everything in between. On the other hand an HTML tag (either opening or closing) is used to mark the start or end of an element, as you can see in the above illustration.
+    </p>
+</div>
+<div>
+    <h1>Classes &clubs;	I am taking &diams; this semester &spades;</h1>
+    <ul>
+        <li>class one</li>
+        <li>class two</li>
+        <li>class three</li>
+    </ul>
+</div>
+<div>
+    copyright <span>&copy;</span> 2021
+</div>
+</body>
+</html>
